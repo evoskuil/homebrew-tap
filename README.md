@@ -1,6 +1,6 @@
 # libbitcoin Homebrew tap
 
-Homebrew formulae for [libbitcoin](https://libbitcoin.info), from the signed
+Homebrew formulae for [libbitcoin](https://libbitcoin.org), from the signed
 release builds of each project, for macOS 13.3 or later on Apple silicon or
 Intel.
 
